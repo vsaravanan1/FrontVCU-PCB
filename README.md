@@ -1,4 +1,4 @@
-# FrontVCU-PCB
+# Front VCU
 **Front Vehicle Control Unit PCB for Solar Gators**
 * High-reliability control PCB for a solar-powered racecar that manages 12V vehicle subsystems (front
 lights, headlights, driver fan, horn)
